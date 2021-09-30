@@ -11,6 +11,8 @@
 		CE5998C5270612760085B361 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5998C4270612760085B361 /* ContentView.swift */; };
 		CE5998C7270612770085B361 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5998C6270612770085B361 /* Assets.xcassets */; };
 		CE5998CA270612770085B361 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5998C9270612770085B361 /* Preview Assets.xcassets */; };
+		CE5998D2270612970085B361 /* Another.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5998D1270612970085B361 /* Another.swift */; };
+		CE5998D4270613D00085B361 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5998D3270613CF0085B361 /* Helpers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		CE5998C6270612770085B361 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE5998C9270612770085B361 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE5998CB270612770085B361 /* Another_UI_in_swift.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Another_UI_in_swift.entitlements; sourceTree = "<group>"; };
+		CE5998D1270612970085B361 /* Another.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Another.swift; sourceTree = "<group>"; };
+		CE5998D3270613CF0085B361 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				CE5998C6270612770085B361 /* Assets.xcassets */,
 				CE5998CB270612770085B361 /* Another_UI_in_swift.entitlements */,
 				CE5998C8270612770085B361 /* Preview Content */,
+				CE5998D1270612970085B361 /* Another.swift */,
+				CE5998D3270613CF0085B361 /* Helpers.swift */,
 			);
 			path = Another_UI_in_swift;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 			files = (
 				CE5998C5270612760085B361 /* ContentView.swift in Sources */,
 				CE5998C3270612760085B361 /* Another_UI_in_swiftApp.swift in Sources */,
+				CE5998D2270612970085B361 /* Another.swift in Sources */,
+				CE5998D4270613D00085B361 /* Helpers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
